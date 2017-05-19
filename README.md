@@ -22,5 +22,11 @@ In the execution mode,
 5. After it will ask to search in google, after console shows "Give Answer", speak the choice.
 6. if the choice is yes, ok, sure then it will open the browser for us.
 
+# Contribute
+
+1. fork the repository
+2. Clone the project to your machine.
+3. innovate it and upload as a new branch to it.
+
 
 
