@@ -7,6 +7,7 @@ A voice Search Engine, Here any keyword spoken is searchbin wikipedia and then a
 To Install this, You need
 1. [Python 2.x](https://www.python.org/downloads/source/) ![](https://camo.githubusercontent.com/c4355e1d3d5d15ddf2ffd6880c4bcb05e11f65d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d322e782d6f72616e67652e737667)
 2. [OpenCv Library](http://opencv.org/links.html)
+
 Recommended to use Anaconda.
 
 # Run
