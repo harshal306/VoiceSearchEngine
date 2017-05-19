@@ -28,6 +28,10 @@ In the execution mode,
 1. fork the repository
 2. Clone the project to your machine.
 3. innovate it and upload as a new branch to it.
+4. Add your name and Profile address to below named Developer and Contributors
+
+# Developer and Contributors
+1. [Harshal Mittal](https://twitter.com/Harshal306)
 
 
 
