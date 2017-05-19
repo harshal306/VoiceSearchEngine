@@ -16,11 +16,11 @@ Recommended to use Anaconda.
 
 # Use
 In the execution mode, 
-1. System ask "Ask Me Something", Reply with the keyword You want to search.
+1. System ask **Ask Me Something**, Reply with the keyword You want to search.
 2. Due to Complex Algorithm, it can take 10-12 sec to react. 
-3. At console view, it will show "Initializing", It is searching in wikipedia first and respond with the answer that is two lines about your keyword.
+3. At console view, it will show **Initializing**, It is searching in wikipedia first and respond with the answer that is two lines about your keyword.
 4. If keyword is not found in the wikipedia, it will throw exception.
-5. After it will ask to search in google, after console shows "Give Answer", speak the choice.
+5. After it will ask to search in google, after console shows **Give Answer**, speak the choice.
 6. if the choice is yes, ok, sure then it will open the browser for us.
 
 # Contribute
